@@ -43,20 +43,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Største nettbutikken for treningsmat og tilskudd",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Proteinpulver, proteindrikke, proteinbarer og alt annen innen treningsmat<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Kom i gang med treningen!",
             "button_link": "",
             "button_style_secondary": false
           }
