@@ -101,6 +101,7 @@
         },
         "product": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "",
             "second_image": false,
@@ -110,6 +111,7 @@
         },
         "collection": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "image_padding": false,
@@ -143,22 +145,22 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Aminosyrer",
+            "text": "<p>Aminosyrer<br\/><\/p>"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Fettforbrenning & Vektreduksjon",
+            "text": "<p>Fettforbrenning & Vektreduksjon<br\/><\/p>"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Fettsyrer",
+            "text": "<p>Fettsyrer<\/p>"
           }
         }
       },
