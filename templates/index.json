@@ -75,7 +75,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Utvalgte produkter",
         "collection": "all",
         "products_to_show": 4,
         "show_view_all": true,
@@ -153,8 +153,8 @@
         "1641906735171a86de-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Se mer her!",
+            "button_link": "shopify:\/\/collections\/protein"
           }
         }
       },
