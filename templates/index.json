@@ -90,6 +90,7 @@
     },
     "1641907616a0aeb1e1": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "164190761683eb94b7-0": {
           "type": "heading",
