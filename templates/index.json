@@ -30,9 +30,9 @@
         "image": "shopify:\/\/shop_images\/Working-Out-With-Chalk.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
+        "show_text_box": false,
         "image_overlay_opacity": 0,
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -57,7 +57,7 @@
           "type": "button",
           "settings": {
             "button_label": "Kom i gang med treningen!",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections",
             "button_style_secondary": false
           }
         }
@@ -88,8 +88,44 @@
         "show_rating": false
       }
     },
+    "1641906735613213db": {
+      "type": "image-with-text",
+      "blocks": {
+        "1641906735171a86de-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Proteiner for å nå dine mål"
+          }
+        },
+        "1641906735171a86de-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1641906735171a86de-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1641906735171a86de-0",
+        "1641906735171a86de-1",
+        "1641906735171a86de-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/plangt.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "video": {
           "type": "video",
@@ -185,6 +221,7 @@
     "image_banner",
     "rich_text",
     "featured_products",
+    "1641906735613213db",
     "collage",
     "video",
     "multi_column"
