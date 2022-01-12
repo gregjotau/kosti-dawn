@@ -214,49 +214,14 @@
         "1641980793be13fb85-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
+        "image_ratio": "square",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "1641906735613213db": {
-      "type": "image-with-text",
-      "blocks": {
-        "1641906735171a86de-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Proteiner for å nå dine mål"
-          }
-        },
-        "1641906735171a86de-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "1641906735171a86de-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Se mer her!",
-            "button_link": "shopify:\/\/collections\/protein"
-          }
-        }
-      },
-      "block_order": [
-        "1641906735171a86de-0",
-        "1641906735171a86de-1",
-        "1641906735171a86de-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/plangt.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
       }
     },
     "collage": {
@@ -690,7 +655,6 @@
     "featured_products",
     "1641907616a0aeb1e1",
     "16419807938361a062",
-    "1641906735613213db",
     "collage",
     "video",
     "multi_column",
