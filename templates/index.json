@@ -132,54 +132,6 @@
         "show_rating": false
       }
     },
-    "1641907616a0aeb1e1": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "164190761683eb94b7-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "164190761683eb94b7-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "164190761683eb94b7-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "164190761683eb94b7-0",
-        "164190761683eb94b7-1",
-        "164190761683eb94b7-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/kosti_ptoteinshake_kosttilskudd.jpg",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "16419807938361a062": {
       "type": "multicolumn",
       "blocks": {
@@ -298,57 +250,6 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "1641975174f0db4381": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": ""
-      }
-    },
-    "16419752376509627d": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "16419752371f75d6f1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "16419752371f75d6f1-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "16419752371f75d6f1-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "shopify:\/\/products\/5-st-proteinpulver-2-shakers-16",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "shopify:\/\/collections\/protein",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16419752371f75d6f1-0",
-        "16419752371f75d6f1-1",
-        "16419752371f75d6f1-2"
-      ],
-      "settings": {
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -356,11 +257,8 @@
     "164197896050a3bd43",
     "rich_text",
     "featured_products",
-    "1641907616a0aeb1e1",
     "16419807938361a062",
     "multi_column",
-    "16419749594b23efc5",
-    "1641975174f0db4381",
-    "16419752376509627d"
+    "16419749594b23efc5"
   ]
 }
