@@ -37,6 +37,50 @@
         "show_text_below": true
       }
     },
+    "164197896050a3bd43": {
+      "type": "multicolumn",
+      "blocks": {
+        "1641978960c7006645-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bodyfatburner.jpg",
+            "title": "",
+            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">Vitaminer <\/a><\/p>"
+          }
+        },
+        "1641978960c7006645-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/plangt.jpg",
+            "title": "",
+            "text": "<p><a href=\"\/collections\/protein\" target=\"_blank\" title=\"Protein\">Proteiner<\/a><\/p>"
+          }
+        },
+        "1641978960c7006645-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/helsepakke.jpg",
+            "title": "",
+            "text": "<p><a href=\"\/collections\/billigkroken\" title=\"Billigkroken\">Billigkroken<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1641978960c7006645-0",
+        "1641978960c7006645-1",
+        "1641978960c7006645-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -592,54 +636,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "164197896050a3bd43": {
-      "type": "multicolumn",
-      "blocks": {
-        "1641978960c7006645-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bodyfatburner.jpg",
-            "title": "",
-            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">Vitaminer <\/a><\/p>"
-          }
-        },
-        "1641978960c7006645-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/plangt.jpg",
-            "title": "",
-            "text": "<p><a href=\"\/collections\/protein\" target=\"_blank\" title=\"Protein\">Proteiner<\/a><\/p>"
-          }
-        },
-        "1641978960c7006645-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/helsepakke.jpg",
-            "title": "",
-            "text": "<p><a href=\"\/collections\/billigkroken\" title=\"Billigkroken\">Billigkroken<\/a><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1641978960c7006645-0",
-        "1641978960c7006645-1",
-        "1641978960c7006645-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
     "image_banner",
+    "164197896050a3bd43",
     "rich_text",
     "featured_products",
     "1641907616a0aeb1e1",
@@ -656,7 +657,6 @@
     "16419750928db2a4a5",
     "16419751477f556973",
     "1641975174f0db4381",
-    "16419752376509627d",
-    "164197896050a3bd43"
+    "16419752376509627d"
   ]
 }
