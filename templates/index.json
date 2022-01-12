@@ -316,7 +316,7 @@
         "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Se hele kosttilskudd utvalget",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
