@@ -4,9 +4,16 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "1641994198debe4b9d": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Kontakt oss"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1641994198debe4b9d"
   ]
 }
