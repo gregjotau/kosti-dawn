@@ -27,7 +27,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Working-Out-With-Chalk.jpg",
+        "image": "shopify:\/\/shop_images\/kosti_ptoteinshake_kosttilskudd.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
@@ -87,7 +87,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Største nettbutikken tilskudd",
+            "heading": "Største nettbutikken for tilskudd",
             "heading_size": "h1"
           }
         },
