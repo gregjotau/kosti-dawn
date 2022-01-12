@@ -283,8 +283,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Aminosyrer",
-            "text": "<p>Aminosyrer<br\/><\/p>"
+            "image": "shopify:\/\/shop_images\/shaker-int_1_1_1445x_5a75d7d9-9ed5-4437-9b71-a73467d9101d.jpg",
+            "title": "Shaker",
+            "text": "<p><a href=\"https:\/\/kosti.no\/products\/protein-shaker\" title=\"https:\/\/kosti.no\/products\/protein-shaker\">Enkelt å ta med seg ut på eventyr <\/a><a href=\"https:\/\/kosti.no\/products\/protein-shaker\" target=\"_blank\" title=\"https:\/\/kosti.no\/products\/protein-shaker\"><br\/><\/a><\/p>"
           }
         },
         "column2": {
@@ -438,48 +439,6 @@
         "layout": "image_first"
       }
     },
-    "16419082320b2a2408": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16419082321ecd01bc-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16419082321ecd01bc-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16419082321ecd01bc-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16419082321ecd01bc-0",
-        "16419082321ecd01bc-1",
-        "16419082321ecd01bc-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "16419749594b23efc5": {
       "type": "newsletter",
       "blocks": {
@@ -511,90 +470,10 @@
         "full_width": true
       }
     },
-    "1641975062ceb762df": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1641975062b11d54de-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1641975062b11d54de-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1641975062b11d54de-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1641975062b11d54de-0",
-        "1641975062b11d54de-1",
-        "1641975062b11d54de-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/kosti_situp_yogamatte.jpg",
-        "height": "small",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
     "16419750928db2a4a5": {
       "type": "contact-form",
       "settings": {
         "heading": "Contact form"
-      }
-    },
-    "16419751477f556973": {
-      "type": "multicolumn",
-      "blocks": {
-        "1641975147d9be2661-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/kosti_ptoteinshake_kosttilskudd.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1641975147d9be2661-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a-flatlay-of-the-breakfast-table.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1641975147d9be2661-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Working-Out-With-Chalk.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1641975147d9be2661-0",
-        "1641975147d9be2661-1",
-        "1641975147d9be2661-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "1641975174f0db4381": {
@@ -661,11 +540,8 @@
     "16419074607dddade9",
     "1641907574a4fe83e1",
     "164190759445e4952f",
-    "16419082320b2a2408",
     "16419749594b23efc5",
-    "1641975062ceb762df",
     "16419750928db2a4a5",
-    "16419751477f556973",
     "1641975174f0db4381",
     "16419752376509627d"
   ]
