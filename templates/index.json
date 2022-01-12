@@ -250,20 +250,12 @@
             "title": "Booty band",
             "text": "<p>Det beste verktøyet for den perfekte rumpen. <a href=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\" title=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\">Se mer her!<\/a><\/p>"
           }
-        },
-        "e752633f-c7d7-4d86-9879-a35d61528fc5": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3",
-        "e752633f-c7d7-4d86-9879-a35d61528fc5"
+        "column3"
       ],
       "settings": {
         "title": "Tilbehør",
