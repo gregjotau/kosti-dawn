@@ -224,59 +224,6 @@
         "swipe_on_mobile": false
       }
     },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "video": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=eH9cbaFUIu4",
-            "description": "Kom i gang med treningen!",
-            "image_padding": false
-          }
-        },
-        "product": {
-          "type": "product",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "collection": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "video",
-        "product",
-        "collection"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
-      }
-    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -303,12 +250,20 @@
             "title": "Booty band",
             "text": "<p>Det beste verktøyet for den perfekte rumpen. <a href=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\" title=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\">Se mer her!<\/a><\/p>"
           }
+        },
+        "e752633f-c7d7-4d86-9879-a35d61528fc5": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "e752633f-c7d7-4d86-9879-a35d61528fc5"
       ],
       "settings": {
         "title": "Tilbehør",
@@ -319,126 +274,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "16419074607dddade9": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "16419074609ad3ddf5-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "16419074609ad3ddf5-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "16419074609ad3ddf5-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "16419074609ad3ddf5-0",
-        "16419074609ad3ddf5-1",
-        "16419074609ad3ddf5-2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
-    "1641907574a4fe83e1": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1641907574f8a28c6d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "1641907574f8a28c6d-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1641907574f8a28c6d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1641907574f8a28c6d-0",
-        "1641907574f8a28c6d-1",
-        "1641907574f8a28c6d-2"
-      ],
-      "settings": {
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "164190759445e4952f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1641907594493851a2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1641907594493851a2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1641907594493851a2-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1641907594493851a2-0",
-        "1641907594493851a2-1",
-        "1641907594493851a2-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
       }
     },
     "16419749594b23efc5": {
@@ -531,12 +366,7 @@
     "featured_products",
     "1641907616a0aeb1e1",
     "16419807938361a062",
-    "collage",
-    "video",
     "multi_column",
-    "16419074607dddade9",
-    "1641907574a4fe83e1",
-    "164190759445e4952f",
     "16419749594b23efc5",
     "1641975174f0db4381",
     "16419752376509627d"
