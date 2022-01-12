@@ -472,12 +472,6 @@
         "full_width": true
       }
     },
-    "16419750928db2a4a5": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Kontaktskjema"
-      }
-    },
     "1641975174f0db4381": {
       "type": "custom-liquid",
       "disabled": true,
@@ -544,7 +538,6 @@
     "1641907574a4fe83e1",
     "164190759445e4952f",
     "16419749594b23efc5",
-    "16419750928db2a4a5",
     "1641975174f0db4381",
     "16419752376509627d"
   ]
