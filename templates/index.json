@@ -101,7 +101,7 @@
           "type": "button",
           "settings": {
             "button_label": "Kom i gang med treningen!",
-            "button_link": "shopify:\/\/collections",
+            "button_link": "https:\/\/kosti.no\/collections\/all?ose=false",
             "button_style_secondary": false
           }
         }
