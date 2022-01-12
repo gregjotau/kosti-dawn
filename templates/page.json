@@ -1,10 +1,55 @@
 {
   "sections": {
+    "1641993449fc3247bb": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Kontakt oss"
+      }
+    },
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "164199345783905f8c": {
+      "type": "rich-text",
+      "blocks": {
+        "1641993457d225f8ef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "1641993457d225f8ef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Adresse for post og brev: Kosti Rosenbergveien 15, 0963 Oslo.<\/p><p><strong>Bruk helst kontakt-skjema<\/strong>, eventuelt e-post: kosti@toppsport.no<\/p>"
+          }
+        },
+        "1641993457d225f8ef-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1641993457d225f8ef-0",
+        "1641993457d225f8ef-1",
+        "1641993457d225f8ef-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
-    "main"
+    "1641993449fc3247bb",
+    "main",
+    "164199345783905f8c"
   ]
 }
