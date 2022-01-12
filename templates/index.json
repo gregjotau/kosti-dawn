@@ -607,16 +607,16 @@
         "1641978960c7006645-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/plangt.jpg",
+            "title": "",
+            "text": "<p><a href=\"\/collections\/protein\" target=\"_blank\" title=\"Protein\">Proteiner<\/a><\/p>"
           }
         },
         "1641978960c7006645-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/helsepakke.jpg",
-            "title": "Billigkroken",
-            "text": ""
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         }
       },
