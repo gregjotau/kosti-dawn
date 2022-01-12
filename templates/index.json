@@ -312,7 +312,7 @@
       "settings": {
         "title": "Tilbehør",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Se hele kosttilskudd utvalget",
