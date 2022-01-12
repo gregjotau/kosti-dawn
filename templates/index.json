@@ -600,8 +600,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/bodyfatburner.jpg",
-            "title": "Vitaminer",
-            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">\/collections\/vitaminer<\/a><\/p>"
+            "title": "",
+            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">Vitaminer <\/a><\/p>"
           }
         },
         "1641978960c7006645-1": {
