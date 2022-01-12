@@ -9,8 +9,6 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
-    "page_width": "1600",
-    "favicon": "shopify:\/\/shop_images\/Asset_4.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -18,7 +16,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Velkommen til vår butikk",
+              "text": "Welcome to our store",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -52,17 +50,25 @@
               "menu": "footer"
             }
           },
-          "4e71932e-7e15-4f58-ab17-05fda2bfc91a": {
-            "type": "link_list",
+          "footer-1": {
+            "type": "text",
             "settings": {
               "heading": "Kundeservice",
-              "menu": "kundeservice"
+              "subtext": ""
+            }
+          },
+          "b62bff06-212f-44d7-aec8-e89b127b4270": {
+            "type": "text",
+            "settings": {
+              "heading": "Vår familie",
+              "subtext": "<p><a href=\"https:\/\/famme.no\" title=\"https:\/\/famme.no\">Famme<\/a><\/p><p><a href=\"https:\/\/toppsport.no\" title=\"https:\/\/toppsport.no\">Toppsport<\/a><\/p><p><a href=\"https:\/\/femenin.no\" title=\"https:\/\/femenin.no\">Feminin<\/a><\/p><p><a href=\"https:\/\/anfrag.com\" title=\"https:\/\/anfrag.com\">Anfrag<\/a><\/p><p><a href=\"https:\/\/tightser.no\" title=\"https:\/\/tightser.no\">Tightser<\/a><\/p><p><a href=\"https:\/\/purete.no\" title=\"https:\/\/purete.no\">Pureté<\/a><\/p><p><a href=\"https:\/\/cavariaequestrian.com\" title=\"https:\/\/cavariaequestrian.com\">Cavaria Equestrian<\/a><\/p>"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "4e71932e-7e15-4f58-ab17-05fda2bfc91a"
+          "footer-1",
+          "b62bff06-212f-44d7-aec8-e89b127b4270"
         ],
         "settings": {
           "color_scheme": "accent-2",
