@@ -50,17 +50,17 @@
               "menu": "footer"
             }
           },
-          "footer-1": {
-            "type": "text",
+          "4e71932e-7e15-4f58-ab17-05fda2bfc91a": {
+            "type": "link_list",
             "settings": {
               "heading": "Kundeservice",
-              "subtext": ""
+              "menu": "footer-v-r-familie"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "4e71932e-7e15-4f58-ab17-05fda2bfc91a"
         ],
         "settings": {
           "color_scheme": "accent-2",
