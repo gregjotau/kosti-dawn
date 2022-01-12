@@ -74,10 +74,10 @@
         "title": "Utvalgte kategorier",
         "image_width": "full",
         "image_ratio": "adapt",
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Alle kategorier",
-        "button_link": "shopify:\/\/collections",
+        "button_label": "",
+        "button_link": "",
         "swipe_on_mobile": false
       }
     },
