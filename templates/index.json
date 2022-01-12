@@ -592,6 +592,47 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "164197896050a3bd43": {
+      "type": "multicolumn",
+      "blocks": {
+        "1641978960c7006645-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">\/collections\/vitaminer<\/a><\/p>"
+          }
+        },
+        "1641978960c7006645-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1641978960c7006645-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1641978960c7006645-0",
+        "1641978960c7006645-1",
+        "1641978960c7006645-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
@@ -612,6 +653,7 @@
     "16419750928db2a4a5",
     "16419751477f556973",
     "1641975174f0db4381",
-    "16419752376509627d"
+    "16419752376509627d",
+    "164197896050a3bd43"
   ]
 }
