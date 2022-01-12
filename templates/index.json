@@ -299,8 +299,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Fettsyrer",
-            "text": "<p>Fettsyrer<\/p>"
+            "image": "shopify:\/\/shop_images\/resistance-band_1.jpg",
+            "title": "Booty band",
+            "text": "<p>Det beste verktøyet for den perfekte rumpen. <a href=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\" title=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\">Se mer her!<\/a><\/p>"
           }
         }
       },
