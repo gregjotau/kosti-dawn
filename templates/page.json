@@ -4,17 +4,9 @@
       "type": "main-page",
       "settings": {
       }
-    },
-    "1642063734d3c8aca8": {
-      "type": "contact-form",
-      "disabled": true,
-      "settings": {
-        "heading": "Kontakt oss"
-      }
     }
   },
   "order": [
-    "main",
-    "1642063734d3c8aca8"
+    "main"
   ]
 }
