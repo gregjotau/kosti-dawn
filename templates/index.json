@@ -5,6 +5,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Kosttilskudd på nett. Proteinpulver, kreatin og vitaminer",
             "heading_size": "medium"
@@ -13,8 +14,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Kjøp kosttilskudd",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "Kjøp protein barer her",
+            "button_link_1": "shopify:\/\/collections\/proteinbar",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -27,12 +28,15 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/kosti_ptoteinshake_kosttilskudd.jpg",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": false,
+        "image": "shopify:\/\/shop_images\/fresh_1.png",
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -43,42 +47,65 @@
         "1641978960c7006645-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bodyfatburner.jpg",
+            "image": "shopify:\/\/shop_images\/vitaminer.png",
             "title": "",
-            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">Vitaminer <\/a><\/p>"
+            "text": "<p><a href=\"\/collections\/vitaminer\" title=\"Vitaminer\">Vitaminer <\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "1641978960c7006645-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/plangt.jpg",
+            "image": "shopify:\/\/shop_images\/proteiner.png",
             "title": "",
-            "text": "<p><a href=\"\/collections\/protein\" target=\"_blank\" title=\"Protein\">Proteiner<\/a><\/p>"
+            "text": "<p><a href=\"\/collections\/protein\" target=\"_blank\" title=\"Protein\">Proteiner<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "1641978960c7006645-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/helsepakke.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled-6.png",
             "title": "",
-            "text": "<p><a href=\"\/collections\/billigkroken\" title=\"Billigkroken\">Billigkroken<\/a><\/p>"
+            "text": "<p><a href=\"\/collections\/billigkroken\" title=\"Billigkroken\">Billigkroken<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "145132c1-280e-4163-bdaf-538e5073b92d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/barer_shopify.png",
+            "title": "",
+            "text": "<p><span style=\"text-decoration:underline\">Proteinbarer<\/span><\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/proteinbar"
           }
         }
       },
       "block_order": [
         "1641978960c7006645-0",
         "1641978960c7006645-1",
-        "1641978960c7006645-2"
+        "1641978960c7006645-2",
+        "145132c1-280e-4163-bdaf-538e5073b92d"
       ],
       "settings": {
         "title": "Kategorier",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text": {
@@ -112,24 +139,30 @@
         "button"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
         "title": "Utvalgte produkter",
+        "heading_size": "h1",
         "collection": "all",
         "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
         "show_view_all": true,
-        "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": false,
-        "show_rating": false
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16419807938361a062": {
@@ -140,7 +173,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/plangt.jpg",
             "title": "Proteiner for å nå dine mål",
-            "text": "<p><a href=\"\/blogs\/news\/5-fordeler-med-proteinpulver\" target=\"_blank\" title=\"5 fordeler med proteinpulver\">5 fordeler med proteinpulver <\/a><\/p>"
+            "text": "<p><a href=\"\/blogs\/news\/5-fordeler-med-proteinpulver\" target=\"_blank\" title=\"5 fordeler med proteinpulver\">5 fordeler med proteinpulver <\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "1641980793be13fb85-1": {
@@ -148,7 +183,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Kreatine.jpg",
             "title": "Kreatin for bedre ytelse",
-            "text": "<p><a href=\"\/blogs\/news\/hva-er-kreatin\" target=\"_blank\" title=\"Hva er Kreatin?\">Hva er kreatin?<\/a><\/p>"
+            "text": "<p><a href=\"\/blogs\/news\/hva-er-kreatin\" target=\"_blank\" title=\"Hva er Kreatin?\">Hva er kreatin?<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "1641980793be13fb85-2": {
@@ -156,7 +193,9 @@
           "disabled": true,
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -167,13 +206,19 @@
       ],
       "settings": {
         "title": "",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multi_column": {
@@ -184,7 +229,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/shaker-int_1_1_1445x_5a75d7d9-9ed5-4437-9b71-a73467d9101d.jpg",
             "title": "Shaker",
-            "text": "<p>Enkelt å ta med seg ut på eventyr.<\/p><p><a href=\"\/products\/protein-shaker\" title=\"Protein Shaker\">Se mer her!<\/a><a href=\"https:\/\/kosti.no\/products\/protein-shaker\" target=\"_blank\" title=\"https:\/\/kosti.no\/products\/protein-shaker\"><br\/><\/a><\/p>"
+            "text": "<p>Enkelt å ta med seg ut på eventyr.<\/p><p><a href=\"\/products\/protein-shaker\" title=\"Protein Shaker\">Se mer her!<\/a><a href=\"https:\/\/kosti.no\/products\/protein-shaker\" target=\"_blank\" title=\"https:\/\/kosti.no\/products\/protein-shaker\"><br\/><\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "column2": {
@@ -192,7 +239,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/massagegun2_1_1445x_9faff085-3af6-4aaf-8909-e3a5aa75161e.jpg",
             "title": "Massasjepistol",
-            "text": "<p>Når du har ryggsmerter, føles benene dine blyholdige og hele kroppen føles sliten. Enten du har trent hardt, jobbet for mye eller bare sovet litt dårlig. Da er det utrolig godt å ha en massasjepistol. <a href=\"\/products\/protein-no-massasjepistol\" title=\"Protein.No Massasjepistol\">Se mer her!<br\/><\/a><\/p>"
+            "text": "<p>Når du har ryggsmerter, føles benene dine blyholdige og hele kroppen føles sliten. Enten du har trent hardt, jobbet for mye eller bare sovet litt dårlig. Da er det utrolig godt å ha en massasjepistol. <a href=\"\/products\/protein-no-massasjepistol\" title=\"Protein.No Massasjepistol\">Se mer her!<br\/><\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "column3": {
@@ -200,7 +249,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/resistance-band_1.jpg",
             "title": "Booty band",
-            "text": "<p>Det beste verktøyet for den perfekte rumpen. <a href=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\" title=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\">Se mer her!<\/a><\/p>"
+            "text": "<p>Det beste verktøyet for den perfekte rumpen. <a href=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\" title=\"https:\/\/kosti-store.myshopify.com\/admin\/themes\/127522144411\/editor?previewPath=%2Fproducts%2Fbooty-band\">Se mer her!<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -211,13 +262,19 @@
       ],
       "settings": {
         "title": "Tilbehør",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "circle",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16419749594b23efc5": {
@@ -226,7 +283,8 @@
         "1641974959f4ce450d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Abonner på vår e-post"
+            "heading": "Abonner på vår e-post",
+            "heading_size": "h1"
           }
         },
         "1641974959f4ce450d-1": {
@@ -248,7 +306,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
