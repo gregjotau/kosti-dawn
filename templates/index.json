@@ -14,7 +14,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Kjøp protein barer her",
+            "button_label_1": "Kjøp proteinbarer her",
             "button_link_1": "shopify:\/\/collections\/proteinbar",
             "button_style_secondary_1": false,
             "button_label_2": "",
